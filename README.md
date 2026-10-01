@@ -1,2 +1,2 @@
-# Queue-using-array
-arrray using queue
+Currently Pursuing B.SC Degree in Computer Science
+
